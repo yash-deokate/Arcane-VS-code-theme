@@ -3,6 +3,19 @@
     "displayName": "Arcane Theme",
     "description": "Arcane theme vs code",
     "version": "0.0.1",
+    "publisher": "Zer0Studio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yash-deokate/Arcane-VS-code-theme/tree/main/arcane-theme"
+    },
+    "keywords": [
+        "theme",
+        "sci-fi theme",
+        "neon theme",
+        "arane league of legends",
+        "aracne theme",
+        "cyberpunk theme"
+    ],
     "engines": {
         "vscode": "^1.62.0"
     },
