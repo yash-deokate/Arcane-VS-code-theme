@@ -76,7 +76,7 @@
 		"gitDecoration.untrackedResourceForeground": "#0FF2F2",
 		"input.background": "#050716",
 		"input.border": "#0FF2F260",
-		"input.foreground": "#150E2D",
+		"input.foreground": "#0ff2f2cb",
 		"input.placeholderForeground": "#0FF2F260",
 		"inputOption.activeBackground": "#150E2D30",
 		"inputOption.activeBorder": "#150E2D30",
@@ -115,7 +115,7 @@
 		"minimapSlider.hoverBackground": "#6589F2a0",
 		"notificationLink.foreground": "#EB3969",
 		"notifications.background": "#050716",
-		"notifications.foreground": "#150E2D",
+		"notifications.foreground": "#EB3969",
 		"panel.background": "#050716",
 		"panel.border": "#EB396950",
 		"panelTitle.activeBorder": "#EB3969",
@@ -644,7 +644,7 @@
 			"punctuation.definition.list_item.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#150E2D"
+			"foreground": "#EB396950"
 		  }
 		},
 		{
