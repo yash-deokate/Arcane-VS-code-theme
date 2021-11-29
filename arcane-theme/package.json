@@ -2,9 +2,9 @@
     "name": "arcane-theme",
     "displayName": "Arcane Theme",
     "description": "Arcane theme vs code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Zer0Studio",
-    "icon":"images/arcanelogo.jpg",
+    "icon": "images/arcanelogo.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/yash-deokate/Arcane-VS-code-theme/tree/main/arcane-theme"
